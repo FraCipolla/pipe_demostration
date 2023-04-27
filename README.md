@@ -1,6 +1,8 @@
 # pipe_demostration
 Simple demostration of system call pipe()
 
+Compile with gcc -Wall -Werror -Wextra pipe.c -o pipes
+
 This is an example of different pipe() implementation.
 
 From Linux man page:
